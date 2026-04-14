@@ -34,7 +34,7 @@ permalink: /
 **好きな漫画・アニメ**
 
 |   ヘタリア　　|　　東京喰種　　|
- | ![image]
+ | ![image](/GHPages_WebSite/assets/images/tokyogooru.png) | ![image](/GHPages_WebSite/assets/images/hetalia.png) |
 
 
 
